@@ -44,3 +44,9 @@ It analyzes the password based on different factors like length, uppercase and l
 - Basics of password security  
 - Importance of strong passwords  
 - Writing validation logic using Python
+
+---
+
+## 📸 Output Screenshot
+
+![Project Output](screenshot.png)
